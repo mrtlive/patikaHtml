@@ -1,4 +1,4 @@
-Bootstrap LinkedIn Clone with Bootstrap
+Bootstrap LinkedIn Clone with Bootstrap 4
 
 ![image](https://user-images.githubusercontent.com/23610345/183476780-43294bab-2b41-43a9-9c5c-3d574dc6195d.png)
 
